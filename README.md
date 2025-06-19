@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **a MOBA Game Project**
 - 🌱 I’m currently learning **Cybersecurity & Game Dev**
 - 🧠 I love solving tech problems and building clean systems
-- 📫 Reach me on: [Email](mailto:your.email@gmail.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📫 Reach me on: [Email](zaldihilmawan10@gmail.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
 - ⚡ Fun fact: I like breaking things... then fixing them better.
 
 ---
