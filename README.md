@@ -6,7 +6,9 @@
 ---
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux Logo" width="150"/>
+  <!-- Logo animasi muncul dari bawah -->
+  <img src="https://i.ibb.co/2SwRbWn/kali-dragon-animate.gif" 
+       alt="Kali Linux Animated Logo" width="200"/>
 </p>
 
 ---
