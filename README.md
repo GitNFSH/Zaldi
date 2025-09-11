@@ -31,13 +31,13 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://instagram.com/yourusername" target="_blank">
+  <a href="https://www.instagram.com/zaldi._11?igsh=MTZqaWYzbGlnaXoyMA==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://x.com/yourusername" target="_blank">
+  <a href="https://x.com/ZallFSH_10?t=bPhCORWOW6COTNxZW9sG6A&s=09" target="_blank">
     <img src="https://img.shields.io/badge/X-black?logo=x&logoColor=white" alt="X (Twitter)"/>
   </a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://www.linkedin.com/in/zaldi-hilmawan-045188360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
